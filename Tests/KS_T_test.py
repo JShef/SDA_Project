@@ -70,4 +70,4 @@ def KS_and_T_test(sample1, sample2):
     plt.legend()
     plt.show()
 
-KS_and_T_test(sampel1, sample2)
+KS_and_T_test(sample1, sample2)
