@@ -1,0 +1,661 @@
+Agilent Technologies Inc
+Anglo American PLC
+Apple Inc
+ABB Ltd
+AbbVie Inc
+AmerisourceBergen Corp
+Abertis Infraestructuras SA
+Anheuser Busch InBev SA NV
+Abbott Laboratories
+Barrick Gold Corp
+Credit Agricole
+ACEA SpA
+Accor SA
+Adecco Group AG
+ADLER Real Estate AG
+Archer-Daniels-Midland Co
+Koninklijke Ahold Delhaize NV
+Automatic Data Processing Inc
+adidas AG
+Aegon NV
+The AES Corporation
+Aetna Inc
+American Financial Group Inc
+African Export-Import Bank
+Avangrid Inc
+Agricultural Bank of China Ltd
+Ageas
+Air Liquide SA
+American International Group Inc
+Airbus SE
+Akzo Nobel NV
+Allstate Corp
+Alliander NV
+Ally Financial Inc
+Alstom SA
+Alpha Bank AE
+Allianz SE
+Applied Materials Inc
+Amgen Inc
+Ameriprise Financial Inc
+American Tower Corp
+America Movil SAB de CV
+Amazon.com Inc
+AutoNation Inc
+AngloGold Ashanti
+Anthem Inc
+Australia   New Zealand Banking
+Air Products   Chemicals Inc
+FCC Aqualia SA
+Saudi Arabian Oil Co
+Arrow Electronics Inc
+Asahi Group Holdings Ltd
+ASML Holding NV
+Assa Abloy AB
+Assicurazioni Generali SpA
+Atlas Copco AB
+Atlantia SpA
+Auchan
+AvalonBay Communities Inc
+Aviva PLC
+Avnet Inc
+Avery Dennison Corp
+AXA SA
+American Express
+AstraZeneca PLC
+AutoZone Inc
+The Boeing Co
+Alibaba Group Holding Limited
+Bank of America Corp
+Barclays PLC
+Mediobanca - Banca di Credito Finanziario SpA
+BAE SYSTEMS PLC
+Brookfield
+BASF SE
+British American Tobacco PLC
+Baxter International Inc
+Bayer AG
+Bombardier Inc
+BBVA
+Banco Bilbao Vizcaya Argentaria SA
+Best Buy Co Inc
+Bell Canada
+Bank of China
+Kingdom of Spain
+Bocom Leasing Management
+Banco Comercial Portugues SA
+Becton Dickinson
+Bertelsmann
+Bevco Lux Sarl
+Credit Mutuel
+Baker Hughes Holdings
+Baidu Inc
+The Bank of New York Mellon Corporation
+Bankia SA
+Bank of Ireland Group Plc
+Bankinter SA
+Ball Corp
+Bank of Montreal
+Bayerische Motoren Werke AG
+Bristol Myers Squibb Co
+Danone SA
+Portuguese Republic
+Bank of East Asia Ltd
+BNP Paribas SA
+Bank of Nova Scotia The
+Burlington Northern Santa Fe LLC
+BOC Aviation Ltd
+Bank of Communications
+Bank of Communications Co Ltd
+BP PLC
+Berkshire Hathaway Inc
+Boston Scientific Corp
+BorgWarner Inc
+Bayerische Landesbank
+Citigroup Inc
+Carrefour SA
+Conagra Brands Inc
+Cardinal Health Inc
+Criteria Caixa SAU
+Capgemini SE
+Avis Budget
+Cargill Inc
+Caterpillar Inc
+Chubb Ltd
+Commonwealth Bank of Australia
+Caisse Nationale de Reassurance Mutuelle Agricole Groupama
+China Construction Bank Corp
+Crown Castle International Corp
+China Development Bank
+Corp Nacional del Cobre de Chile
+CECONOMY AG
+Severstal OAO
+The Chugoku Electric Power Co Inc
+Cigna Corp
+CITIC Ltd
+Kookmin Bank
+ITOCHU Corp
+Central Japan Railway Co
+Colgate-Palmolive Co
+Cellnex Telecom SA
+Clorox Co
+Canadian Imperial Bank of Commerce
+CMA CGM SA
+Comcast Corp
+Cummins Inc
+Commerzbank AG
+CNA Financial Corp
+Centrica PLC
+CNH Industrial NV
+CNOOC
+CenterPoint Energy Inc
+Canadian Natural Resources Ltd
+Canadian National Railway Co
+Chorus Ltd
+Capital One Financial Corp
+Casino Guichard Perrachon SA
+Commercial Bank PSQC
+Continental AG
+ConocoPhillips
+Costco Wholesale Corp
+Covivio
+COX Communications Inc
+Campbell Soup Co
+Compass Group Plc
+CPI Property Group SA
+CAMDEN PROPERTY TRUST
+Credit Suisse Group AG
+Cisco Systems Inc
+Constellium NV
+CSX Corp
+EI du Pont de Nemours & Co
+CVS Health Corp
+Chevron Corp
+Caixa Geral de Depositos SA
+Dominion Energy
+Daimler AG
+Daiwa Securities Group Inc
+Delta Air Lines Inc
+Danske Bank
+Deutsche Bank AG
+Deutsche Bahn
+Deutsche Boerse AG
+Deere   Co
+DEPFA Bank
+de Volksbank NV
+Diageo PLC
+Vinci SA
+Quest Diagnostics Inc
+DR Horton Inc
+Danaher Corp
+DNB Bank ASA
+Dover Corp
+Dow Chemical Co The
+DP World Ltd
+Deutsche Post AG
+Darden Restaurants Inc
+Koninklijke DSM NV
+Deutsche Telekom AG
+DTE Energy Co
+DEVON
+DXC Technology Co
+DZ Bank AG
+Emirates NBD PJSC
+Consolidated Edison Inc
+Electricite de France SA
+EDP   Energias de Portugal SA
+Export Import Bank of Korea
+East Japan Railway Co
+Eastman Chemical Co
+Emerson Electric Co
+Enbridge Inc
+EnBW Energie Baden Wuerttemberg AG
+Enel SpA
+Bouygues SA
+GIE ENGIE
+Engie SA
+Eni SpA
+E.ON SE
+Faurecia SA
+EOG Resources Inc
+Equinix Inc
+Equinor ASA
+Telefonaktiebolaget LM Ericsson
+Erste Group Bank AG
+Esselunga SpA
+Energy Transfer LP
+National Bank of Greece SA
+Eaton
+Entergy
+Eurobank SA
+Europcar
+Evonik
+EWE AG
+Expedia Group Inc
+easyJet Plc
+Ford Motor Co
+First Abu Dhabi Bank PJSC
+Fiat Chrysler Automobiles NV
+Fonterra
+FedEx Corp
+Fairfax
+Fidelity National Information Services Inc
+Fiserv Inc
+Flextronics International Ltd
+Fresenius Medical Care AG 
+Fresenius SE   Co KGaA
+Valeo SA
+Federal Realty Investment Trust
+TechnipFMC PLC
+Fortum Oyj
+Galp Energia SGPS SA
+Gazprom
+General Dynamics Corp
+General Electric Co
+Gecina SA
+Gilead Sciences Inc
+General Mills Inc
+Corning Inc
+General Motors Co
+Goodman Group
+GATX Corporation
+GEORGIA-PACIFIC CORP
+Grifols SA
+Goldman Sachs Group Inc The
+GlaxoSmithKline PLC
+Goodyear
+Halliburton Co
+Hasbro Inc
+Hamburg Commercial Bank AG
+Home Depot Inc The
+Heineken NV
+HeidelbergCement AG
+Henkel AG   Co KGaA
+Hess Corporation
+Landesbank Hessen-Thueringen Girozentrale
+Hartford Financial Services Group Inc
+Hammerson Plc
+Honda Motor Co Ltd
+Thales SA
+Honeywell International Inc
+HOCHTIEF Aktiengesellschaft
+Hapag-Lloyd AG
+HP Inc
+H&R Block Inc
+HSBC Holdings PLC
+Husky Energy
+The Hershey Co
+Hellenic Telecommunications
+Humana Inc
+Huntsman International LLC
+Hyundai
+Hysan Ltd
+SK Hynix Inc
+International Consolidated Airlines Group SA
+Iberdrola SA
+International Business Machines Corp
+Industrial & Commercial Bank of China Ltd/
+Industrial & Commercial Bank of China Ltd
+ICICI Bank Ltd
+PT Indonesia Asahan Aluminium Persero
+International Game Technology Plc
+innogy
+Imperial Brands PLC
+Industrial Bank of Korea
+INEOS
+Intel Corp
+ING Groep NV
+Intrum AB
+Intuit Inc
+Investor AB
+International Paper Co
+Interpublic Group of Cos
+Intesa Sanpaolo SpA
+Israel Electric Corp Ltd
+ISS Global A/S
+ITV Plc
+Illinois Tool Works Inc
+Japan Tobacco
+Johnson Controls International plc
+Jefferies
+Johnson   Johnson
+Juniper Networks Inc
+JPMorgan Chase   Co
+Nordstrom Inc
+Kellogg Co
+The Kansai Electric Power Company Inc
+KBC Group NV
+Kering
+Kia Motors Corp
+Kimco Realty Corp
+Kimberly Clark Corp
+Kinder Morgan Inc DE
+Coca Cola Co The
+Korea Electric Power Corp
+Korea National Oil Corp
+Koninklijke KPN NV
+The Kroger Co
+Kohl's Corp
+Loews Corp
+Landesbank Baden
+Leonardo SpA
+Lennar Corp
+Levi Strauss & Co
+Legal & General Group Plc
+LAFARGE SA
+Laboratory Corp of America Holdings
+Deutsche Lufthansa AG
+LafargeHolcim Ltd
+Klepierre SA
+Li & Fung Limited
+Lloyds Banking Group PLC
+Eli Lilly & Co
+Lockheed Martin Corp
+Lincoln National Corp
+Longfor Properties Co Ltd
+Louis Dreyfus Co BV
+Lowe's Cos Inc
+Loxam SAS
+Legrand SA
+Lukoil
+Southwest Airlines Co
+LANXESS AG
+Marriott International Inc
+Marubeni Corp
+Masco Corp
+Mashreqbank psc
+Panasonic Corporation
+McDonald's Corp
+LVMH Moet Hennessy Louis Vuitton SE
+McKesson Corp
+MDC Holdings Inc
+Mondelez International Inc
+MEITUAN
+MetLife Inc
+Metso Oyj
+Mohawk
+Mitsubishi Corp
+Mitsui Fudosan Co Ltd
+Mizuho
+Martin Marietta Materials Inc
+Lagardere SCA
+Marsh & McLennan Cos Inc
+3M Co
+Magellan Midstream Partners LP
+Altria Group Inc
+Banca Monte dei Paschi di Siena SpA
+Monsanto
+Marathon Petroleum Corp
+MPLX LP
+Macquarie Group Ltd
+Merck   Co Inc
+Merck KGaA
+Marathon Oil Corp
+Morgan Stanley
+Microsoft Corp
+Motorola Solutions Inc
+Mitsui Sumitomo Insurance Co Ltd
+ArcelorMittal SA
+Mamoura Diversified Global Holding
+Mitsubishi UFJ Lease & Finance Co Ltd
+Munich Re
+Wendel SA
+National Australia Bank Ltd
+Noble Energy
+Newcrest
+Nordea Bank Abp
+Norddeutsche Landesbank Girozentrale
+NextEra Energy Inc
+Newmont Mining Corp
+Nestle SA
+Netflix Inc
+National Grid PLC
+Nisource
+NIKE Inc
+NN Group NV
+Northrop Grumman Corp
+Nokia OYJ
+Nomura Holdings Inc
+Novo Banco SA
+Novartis AG
+NRG Energy Inc
+National Rural Utilities Cooperative Finance Corp
+Nissan Motor Co Ltd
+Norfolk Southern Corp
+Naturgy Energy Group SA
+Nutrien Ltd
+Nippon Telegraph & Telephone Corp
+Nucor Corp
+Novafives S.A.S.
+NVR Inc
+Royal Bank of Scotland Group PLC
+Nationwide Building Society
+Owens Corning
+Oversea-Chinese Banking Corp Ltd
+Telefonica
+OI European Group BV
+ONEOK Inc
+Omnicom
+OP Corporate Bank
+Orange SA
+Orano SA
+Oracle Corp
+Origin Energy Ltd
+Joy Treasure Assets Holding Inc
+ORIX Corp
+Orsted A S
+Plains All American Pipeline LP
+Pacific Gas & Electric Co
+Healthpeak Properties Inc
+Petroleos Mexicanos
+PepsiCo Inc
+Pertamina Persero
+Petroleo Brasileiro SA
+PETRONAS
+Peugeot SA
+Pfizer Inc
+Procter   Gamble Co The
+Perusahaan Perseroan (Persero) PT
+The Progressive Corporation
+Koninklijke Philips NV
+PulteGroup Inc
+Packaging Corp of America
+Perusahaan Listrik Negara PT
+Philip Morris International Inc
+PNC Financial Services
+POSCO
+PPF Telecom Group BV
+PPG Industries Inc
+Proximus SA
+Prudential
+Prudential PLC
+ProSiebenSat.1 Media SE
+Publicis Groupe SA
+Pioneer Natural Resources Co
+QBE Insurance Group Ltd
+Ryder System Inc
+Rabobank
+Rakuten Group Inc
+Raiffeisen Bank International AG
+Reckitt Benckiser
+Robert Bosch
+Rogers Communications Inc
+Royal Dutch Shell PLC
+Red Electrica Corp SA
+Regency Centers LP
+RELX PLC
+Renault SA
+Repsol SA
+Pernod Ricard SA
+Reliance Industries Ltd
+Ralph Lauren Corp
+Rosneft Oi
+Republic Services Inc
+Rentokil Initial PLC
+Raytheon Technologies Corp
+RWE AG
+Rexel SA
+Royal Bank of Canada
+SABIC
+Banco de Sabadell SA
+Samba Financial
+Sanofi
+Santander Consumer Finance
+Banco Santander SA
+Santander UK Plc
+Santander Holdings USA
+SAP SE
+Sappi Papier Holding GmbH
+Nidda Healthcare Holding GmbH
+Sberbank
+State Bank of India
+Scania AB
+Santander Consumer Bank AG
+Santander Consumer Bank AS
+The Charles Schwab Corp
+Swisscom AG
+SCOR SE
+K+S AG
+Skandinaviska Enskilda Banken AB
+Sealed Air Corp
+SES SA
+Smithfield Foods Inc
+Altice France SA
+Cie de Saint Gobain
+SGSP Australia Assets
+Optus
+Schaeffler AG
+Svenska Handelsbanken AB
+Shimao Group Holdings Ltd
+Shinhan Bank Co Ltd
+Sherwin-Williams Co/The
+Gazprom Neft
+Siemens AG
+Sino-Ocean
+Sinopec
+China Petrochemical Corp
+Sompo Japan Insurance Inc
+SK Innovation Co Ltd
+SK Telecom Co Ltd
+Schlumberger
+SL Green Realty
+Smiths Group PLC
+Southern Co The
+Societe Generale SA
+SoftBank Group Corp
+Solvay SA
+S&P Global Inc
+Sabine Pass Liquefaction
+Sempra Energy
+SSE PLC
+Standard Chartered PLC
+Stedin
+Stena AB
+Stora Enso Oyj
+Stellantis NV
+Santos Ltd
+SingTel Group
+INEOS Ltd
+Constellation Brands Inc
+Suncor Energy Inc
+Schneider Electric SE
+Sumitomo Corp
+Sumitomo Mitsui
+Suncorp-Metway Ltd
+Sun Hung Kai Properties
+Swedbank AB
+Sodexo SA
+Swire Pacific
+Stanley Black & Decker
+Syngenta AG
+Sysco Corp
+Suedzucker
+AT T Inc
+Takeda Pharmaceutical Co Ltd
+Talanx AG
+Molson Coors Brewing Co
+Teck Resources Ltd
+TELUS Corp
+Toronto-Dominion Bank
+TDC A/S
+Telefonica SA
+Telia Co AB
+Telenor ASA
+Grupo Televisa SA
+Republic of Singapore
+Tencent Holdings Ltd
+Teva Pharmaceutical Industries Ltd
+Target Corp
+Telecom Italia SpA
+TJX Cos Inc
+Telekom Austria AG
+thyssenkrupp AG
+Telstra Corp Ltd
+Telenet
+TOTAL SA
+Toyota Motor Corp
+Toyota Tsusho Corp
+Thomson Reuters Corp
+Travelers Cos Inc
+Tesco PLC
+Tyson Foods Inc
+Ingersoll-Rand
+TotalEnergies
+Jaguar Land Rover Automotive Plc
+Teollisuuden Voima Oyj
+Texas Instruments Inc
+Textron Inc
+Unione di Banche Italiane SpA
+UBS Group AG
+UniCredit SpA
+UDR Inc
+Universal Health Services Inc
+Unibail Rodamco Westfield
+Unilever
+MUFG Bank
+UnitedHealth Group Inc
+Unipol Gruppo SpA
+Unilabs Subholding AB
+Unum Group
+Union Pacific Corp
+UPC Holding BV
+UPM-Kymmene Oyj
+United Parcel Service Inc
+United Rentals North America Inc
+US Bancorp
+United Utilities Water Ltd
+Vale SA
+Vattenfall AB
+Verbund AG
+VF Corp
+Viacom
+Veolia Environnement SA
+Vivendi SA
+Valero Energy Corp
+Volvo AB
+Vulcan Materials Co
+Virgin Money UK Plc
+Vanke Real Estate
+Vodafone Group PLC
+Volvo Car AB
+Volkswagen AG
+Verizon Communications Inc
+Walgreens Boots Alliance Inc
+Wisconsin Energy Corp
+Welltower Inc
+Wesfarmers Ltd
+Wells Fargo   Co
+Whirlpool Corp
+Wienerberger AG
+Wolters Kluwer NV
+Waste Management Inc
+Williams Cos Inc
+Wal-Mart Stores Inc
+Woori Bank Co Ltd
+Woodside
+Westpac Banking Corp
+Western Union Co The
+Weyerhaeuser Co
+XLIT Ltd
+Exxon Mobil Corp
+Ziggo
