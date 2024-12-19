@@ -17,4 +17,4 @@ Finally, we have our "Archive" folder, which contains some old code we considere
 # Required Packages
 
 The following (less common) packages are required for running the code from our various python files, alongside commonly used packages:
-scipy, statsmodels, arch, joblib, pmdarima, itertools
+scipy, seaborn, statsmodels, arch, joblib, pmdarima, itertools
